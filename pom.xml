@@ -4,7 +4,7 @@
     <groupId>org.arachna.prometheus</groupId>
     <artifactId>resteasy</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <description>
         Prometheus Filter using the Dynamic Feature of RESTeasy
     </description>
