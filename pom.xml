@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.arachna.prometheus</groupId>
     <artifactId>resteasy</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <description>
         Prometheus Filter using the Dynamic Feature of RESTeasy
@@ -35,7 +35,7 @@
         <url>scm:git:http://jenkins.gisa-halle.de:8080/gitblit/r/~g526521/prometheus-resteasy.git</url>
         <connection>scm:git:http://jenkins.gisa-halle.de:8080/gitblit/r/~g526521/prometheus-resteasy.git</connection>
         <developerConnection>scm:git:http://jenkins.gisa-halle.de:8080/gitblit/r/~g526521/prometheus-resteasy.git</developerConnection>
-        <tag>prometheus-resteasy-0.0.1</tag>
+        <tag>resteasy-1.0.1</tag>
     </scm>
     <licenses>
         <license>
