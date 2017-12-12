@@ -27,6 +27,12 @@
             <organization></organization>
         </developer>
     </developers>
+    <scm>
+        <url>scm:git:http://jenkins.gisa-halle.de:8080/gitblit/r/~g526521/prometheus-resteasy.git</url>
+        <connection>scm:git:http://jenkins.gisa-halle.de:8080/gitblit/r/~g526521/prometheus-resteasy.git</connection>
+        <developerConnection>scm:git:http://jenkins.gisa-halle.de:8080/gitblit/r/~g526521/prometheus-resteasy.git</developerConnection>
+        <tag>prometheus-resteasy-0.0.1</tag>
+    </scm>
     <licenses>
         <license>
             <name>Apache License 2.0</name>
